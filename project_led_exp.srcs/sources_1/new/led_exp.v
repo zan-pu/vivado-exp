@@ -40,7 +40,7 @@ always @ (posedge clk) begin
     if (rst == `RST_ENABLE) begin
         led <= 8'b0;
     end else begin
-        case(cnt[10:8])
+        case(cnt[28:26])
         3'b000: led <= 8'b0000_0001;
         3'b001: led <= 8'b0000_0010;
         3'b010: led <= 8'b0000_0100;
