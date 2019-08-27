@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Garvey/Documents/Vivado/project_led_exp/project_led_exp.srcs/sources_1/new/led_exp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_exp
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Garvey/Documents/Vivado/project_led_exp/project_led_exp.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Garvey/Documents/Vivado/project_led_exp/project_led_exp.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
